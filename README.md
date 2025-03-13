@@ -45,12 +45,6 @@ GPL-2.0 License
 
 ## 项目导师
 
-- 姓名：王鹏
+- 姓名：徐宇
 - 单位：阿里云
-- github ID：[https://github.com/vipwangerxiao](https://github.com/vipwangerxiao)
-- email：[zhiyun.wp@alibaba-inc.com](zhiyun.wp@alibaba-inc.com)
-
-- 姓名：王荣巍
-- 单位：阿里云
-- github ID：[https://github.com/wangrongwei](https://github.com/wangrongwei)
-- email：[rongwei.wrw@alibaba-inc.com](rongwei.wrw@alibaba-inc.com)
+- email：[qiyu.xy@alibaba-inc.com](qiyu.xy@alibaba-inc.com)
